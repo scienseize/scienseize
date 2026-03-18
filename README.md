@@ -43,8 +43,6 @@ I'm a self-driven learner building at the intersection of machine learning, web 
 | Project | Focus | Status |
 |---|---|---|
 | 🏙 Smart City Dashboard | Multi-modal urban mobility · Metro Manila / NAIA | 🔒 Details dropping soon |
-| 🌱 Roots AI | Predictive informal settlement forecasting · satellite imagery + spatiotemporal ML | 🔒 Details dropping soon |
-| 🐾 StreetBond AI | Stray animal & homeless services platform · computer vision + NGO coordination | 🔒 Details dropping soon |
 
 > Building AI systems that move cities, communities, and people forward.
 
@@ -53,8 +51,6 @@ I'm a self-driven learner building at the intersection of machine learning, web 
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/billalc)
-
-Open to collaborations, hackathon teams, and entry-level AI/ML opportunities.
 
 ---
 
