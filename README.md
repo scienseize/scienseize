@@ -3,13 +3,12 @@
 
 I'm a self-driven learner building at the intersection of machine learning, web development, and real-world data problems. Currently deep in ML/AI projects.
 
-> Deeply obsessed with the 'Moneyball' side of the game — using data and analytics to decode performance and predict the future of sports.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F74D&center=true&width=435&lines=Build+in+progress)](https://git.io/typing-svg)
 ---
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-5.1-2C2D72?logo=lua&style=flat&color=5aad54&logoColor=FFFFFF&labelColor=1d431f)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
