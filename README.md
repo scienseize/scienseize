@@ -1,8 +1,8 @@
 # Hi, I'm Bill Alcantara 👋
 
-**AI/ML Engineer in Progress · Web Developer · Sports Analytics Enthusiast**
+**AI/ML Engineer in Progress · Data Scientist · Sports Analytics Enthusiast**
 
-I'm a self-driven learner building at the intersection of machine learning, web development, and real-world data problems. Currently deep in ML/AI projects and leveling up fast.
+I'm a self-driven learner building at the intersection of machine learning, web development, and real-world data problems. Currently deep in ML/AI projects.
 
 > Deeply obsessed with the 'Moneyball' side of the game — using data and analytics to decode performance and predict the future of sports.
 
@@ -30,21 +30,11 @@ I'm a self-driven learner building at the intersection of machine learning, web 
 
 ---
 
-## 📚 Currently Learning
-
-- Deep Learning fundamentals (PyTorch)
-- ML system design & model deployment
-- Data pipelines and feature engineering
-
----
-
 ## 🏆 Hackathons
 
 | Project | Focus | Status |
 |---|---|---|
 | 🏙 Smart City Dashboard | Multi-modal urban mobility · Metro Manila / NAIA | 🔒 Details dropping soon |
-
-> Building AI systems that move cities, communities, and people forward.
 
 ---
 
@@ -55,6 +45,4 @@ I'm a self-driven learner building at the intersection of machine learning, web 
 ---
 
 ## 📊 GitHub Stats
-
-![Bill's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scienseize&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scienseize&layout=compact&theme=default&hide_border=true)
