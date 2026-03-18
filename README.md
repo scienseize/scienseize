@@ -9,7 +9,7 @@ I'm a self-driven learner building at the intersection of machine learning, web 
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-5.1-2C2D72?logo=lua&style=for-the-badge&color=5aad54&logoColor=FFFFFF&labelColor=1d431f)
+![Lua](https://img.shields.io/badge/Lua-5.1-2C2D72?logo=lua&style=flat&color=5aad54&logoColor=FFFFFF&labelColor=1d431f)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
