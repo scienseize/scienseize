@@ -1,4 +1,3 @@
-# Hi, I'm Bill Alcantara 👋
 
 **AI/ML Engineer in Progress · Data Scientist · Sports Analytics Enthusiast**
 
