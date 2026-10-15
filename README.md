@@ -1,9 +1,10 @@
 
-**CS / Data Science Student · Building**
+**CS / Data Science Student · Builder**
 
 I build AI applications that solve real problems: civic tech, clinical triage, speech coaching, and ML-systems research. I like taking a project all the way through, from the model to the API to the interface people actually use.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F74D&center=true&width=435&lines=Hackathon+winner;Building+AI+apps+end+to+end;Profiling+transformer+energy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21F74D&center=true&width=435&lines=Building+AI+apps+end+to+end;Profiling+transformer+energy)](https://git.io/typing-svg)
+
 ---
 
 ## Notable Projects
@@ -11,6 +12,7 @@ I build AI applications that solve real problems: civic tech, clinical triage, s
 **[Lakad](https://github.com/garcieee/LKD)**, Team *Lakad Kinetic Development*: winner at the **5th Poland–Philippines IT Business Summit Hackathon** (Oct 2026)
 
 Walking navigation and crowd reporting for Makati. Commuters get routes that avoid reported hazards, file geotagged AR photo reports (faces are blurred on the server), and send SOS videos. The city triages everything in a ranked ticket queue with live traffic and forecast foot-traffic layers.
+
 `Flutter` · `FastAPI` · `React + TypeScript` · `Mapbox` · `SQLite`
 
 | Project | What it does | Built with |
@@ -42,8 +44,3 @@ Walking navigation and crowd reporting for Makati. Commuters get routes that avo
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
----
-
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scienseize&layout=compact&theme=default&hide_border=true)
